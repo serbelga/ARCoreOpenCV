@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d94aa5f-5fd3-4e9c-923e-2e8dc32b9e17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
+              <folding>
+                <marker date="1562369116835" expanded="true" signature="6:171" ph="..." />
+                <marker date="1562369116835" expanded="true" signature="216:6406" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1022:1034" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1040:1089" ph="/// On Awake ... " />
+                <marker date="1562369116835" expanded="true" signature="1114:1181" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1187:1237" ph="/// On Enable ... " />
+                <marker date="1562369116835" expanded="true" signature="1265:1345" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1351:1402" ph="/// On Disable ... " />
+                <marker date="1562369116835" expanded="true" signature="1431:1511" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1569:1581" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="1587:1849" ph="/// Texture Reader callback ... " />
+                <marker date="1562369116835" expanded="true" signature="1990:3121" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="2093:2321" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="2836:3079" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="3127:3195" ph="/// Processes the Current Frame ... " />
+                <marker date="1562369116835" expanded="true" signature="3230:3440" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="3450:3563" ph="/// Initializes hsv mat to current  ... " />
+                <marker date="1562369116835" expanded="true" signature="3608:3773" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="3803:5258" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="3841:3904" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="4144:4387" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="5308:5484" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="5538:5631" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="5695:6402" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="5979:6189" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="6077:6179" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="6221:6396" ph="{...}" />
+                <marker date="1562369116835" expanded="true" signature="6283:6386" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ColorCV.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <folding>
+                <marker date="1562340347324" expanded="true" signature="19:64" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ColorObjectCV.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <marker date="1562340382392" expanded="true" signature="46:1527" ph="{...}" />
+                <marker date="1562340382392" expanded="true" signature="171:1189" ph="{...}" />
+                <marker date="1562340382392" expanded="true" signature="200:1183" ph="{...}" />
+                <marker date="1562340382392" expanded="true" signature="1222:1302" ph="{...}" />
+                <marker date="1562340382392" expanded="true" signature="1335:1415" ph="{...}" />
+                <marker date="1562340382392" expanded="true" signature="1447:1525" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ColorCV.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Materials/MyBackground.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ColorObjectCV.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Materials/MyBackground.shader" />
+        <option value="$PROJECT_DIR$/Assets/ColorCV.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorObjectCV.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="634" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Materials" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d94aa5f-5fd3-4e9c-923e-2e8dc32b9e17" name="Default Changelist" comment="" />
+      <created>1562338204716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562338204716</updated>
+      <workItem from="1562338207478" duration="3000" />
+      <workItem from="1562338955161" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3052000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Materials/MyBackground.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+          <folding>
+            <marker date="1562339825318" expanded="true" signature="29:1542" ph="{...}" />
+            <marker date="1562339825318" expanded="true" signature="50:249" ph="{...}" />
+            <marker date="1562339825318" expanded="true" signature="265:1524" ph="{...}" />
+            <marker date="1562339825318" expanded="true" signature="276:1521" ph="{...}" />
+            <marker date="1562339825318" expanded="true" signature="311:1510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ColorCV.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <marker date="1562340347324" expanded="true" signature="19:64" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ColorObjectCV.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <marker date="1562340382392" expanded="true" signature="46:1527" ph="{...}" />
+            <marker date="1562340382392" expanded="true" signature="171:1189" ph="{...}" />
+            <marker date="1562340382392" expanded="true" signature="200:1183" ph="{...}" />
+            <marker date="1562340382392" expanded="true" signature="1222:1302" ph="{...}" />
+            <marker date="1562340382392" expanded="true" signature="1335:1415" ph="{...}" />
+            <marker date="1562340382392" expanded="true" signature="1447:1525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
+          <folding>
+            <marker date="1562369116835" expanded="true" signature="6:171" ph="..." />
+            <marker date="1562369116835" expanded="true" signature="216:6406" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1022:1034" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1040:1089" ph="/// On Awake ... " />
+            <marker date="1562369116835" expanded="true" signature="1114:1181" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1187:1237" ph="/// On Enable ... " />
+            <marker date="1562369116835" expanded="true" signature="1265:1345" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1351:1402" ph="/// On Disable ... " />
+            <marker date="1562369116835" expanded="true" signature="1431:1511" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1569:1581" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="1587:1849" ph="/// Texture Reader callback ... " />
+            <marker date="1562369116835" expanded="true" signature="1990:3121" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="2093:2321" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="2836:3079" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="3127:3195" ph="/// Processes the Current Frame ... " />
+            <marker date="1562369116835" expanded="true" signature="3230:3440" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="3450:3563" ph="/// Initializes hsv mat to current  ... " />
+            <marker date="1562369116835" expanded="true" signature="3608:3773" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="3803:5258" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="3841:3904" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="4144:4387" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="5308:5484" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="5538:5631" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="5695:6402" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="5979:6189" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="6077:6179" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="6221:6396" ph="{...}" />
+            <marker date="1562369116835" expanded="true" signature="6283:6386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

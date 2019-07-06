@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ARCoreOpenCV.-983495197.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="ARCoreOpenCV.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ColorCV.cs" t="Include" />
+        <e p="ColorObjectCV.cs" t="Include" />
+        <e p="GameController.cs" t="Include" />
+        <e p="GoogleARCore" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ARCoreiOSDependencies.template" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="AugmentedFaces" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="AugmentedFaceOccluder.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="ARCoreAugmentedFaceMeshFilter.cs" t="Include" />
+                <e p="ARCoreAugmentedFaceRig.cs" t="Include" />
+                <e p="AugmentedFacesExampleController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="AugmentedImage" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AugmentedImageExampleController.cs" t="Include" />
+                <e p="AugmentedImageVisualizer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="CloudAnchors" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AnchorController.cs" t="Include" />
+                <e p="ARCoreWorldOriginHelper.cs" t="Include" />
+                <e p="ARKitHelper.cs" t="Include" />
+                <e p="CloudAnchorsExampleController.cs" t="Include" />
+                <e p="CloudAnchorsNetworkManager.cs" t="Include" />
+                <e p="LocalPlayerController.cs" t="Include" />
+                <e p="MultiplatformMeshSelector.cs" t="Include" />
+                <e p="NetworkManagerUIController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Common" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="MobileDiffuseWithLightEstimation.shader" t="Include" />
+                  <e p="MobileSpecularWithLightEstimation.shader" t="Include" />
+                  <e p="PlaneGrid.shader" t="Include" />
+                  <e p="PointCloud.shader" t="Include" />
+                  <e p="TransparentShadow.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="DetectedPlaneGenerator.cs" t="Include" />
+                <e p="DetectedPlaneVisualizer.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="PointcloudVisualizerEditor.cs" t="Include" />
+                </e>
+                <e p="PlaneDiscoveryGuide.cs" t="Include" />
+                <e p="PointcloudVisualizer.cs" t="Include" />
+                <e p="RawImageVideoPlayer.cs" t="Include" />
+                <e p="SafeAreaScaler.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ComputerVision" t="Include">
+              <e p="Materials" t="Include">
+                <e p="EdgeDetectionBackground.shader" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="ComputerVisionController.cs" t="Include" />
+                <e p="EdgeDetector.cs" t="Include" />
+                <e p="PointClickHandler.cs" t="Include" />
+                <e p="TextureReader.cs" t="Include" />
+                <e p="TextureReaderApi.cs" t="Include" />
+              </e>
+            </e>
+            <e p="HelloAR" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="HelloARController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ObjectManipulation" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AndyPlacementManipulator.cs" t="Include" />
+                <e p="Gestures" t="Include">
+                  <e p="DragGesture.cs" t="Include" />
+                  <e p="DragGestureRecognizer.cs" t="Include" />
+                  <e p="Gesture.cs" t="Include" />
+                  <e p="GestureRecognizer.cs" t="Include" />
+                  <e p="GestureTouchesUtility.cs" t="Include" />
+                  <e p="PinchGesture.cs" t="Include" />
+                  <e p="PinchGestureRecognizer.cs" t="Include" />
+                  <e p="TapGesture.cs" t="Include" />
+                  <e p="TapGestureRecognizer.cs" t="Include" />
+                  <e p="TransformationUtility.cs" t="Include" />
+                  <e p="TwistGesture.cs" t="Include" />
+                  <e p="TwistGestureRecognizer.cs" t="Include" />
+                  <e p="TwoFingerDragGesture.cs" t="Include" />
+                  <e p="TwoFingerDragGestureRecognizer.cs" t="Include" />
+                </e>
+                <e p="ManipulationSystem.cs" t="Include" />
+                <e p="Manipulators" t="Include">
+                  <e p="ElevationManipulator.cs" t="Include" />
+                  <e p="Manipulator.cs" t="Include" />
+                  <e p="RotationManipulator.cs" t="Include" />
+                  <e p="ScaleManipulator.cs" t="Include" />
+                  <e p="SelectionManipulator.cs" t="Include" />
+                  <e p="TranslationManipulator.cs" t="Include" />
+                </e>
+                <e p="ObjectManipulationController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SDK" t="Include">
+            <e p="InstantPreview" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="InstantPreviewBugReport.cs" t="Include" />
+                </e>
+                <e p="InstantPreviewInput.cs" t="Include" />
+                <e p="InstantPreviewManager.cs" t="Include" />
+                <e p="InstantPreviewTrackedPoseDriver.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Materials" t="Include">
+              <e p="ARBackground.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Anchor.cs" t="Include" />
+              <e p="AndroidPermissionsManager.cs" t="Include" />
+              <e p="AndroidPermissionsRequestResult.cs" t="Include" />
+              <e p="Api" t="Include">
+                <e p="NativeSession.cs" t="Include" />
+                <e p="Types" t="Include">
+                  <e p="ApiApkInstallationStatus.cs" t="Include" />
+                  <e p="ApiApkInstallStatusExtensions.cs" t="Include" />
+                  <e p="ApiArStatus.cs" t="Include" />
+                  <e p="ApiArStatusExtensions.cs" t="Include" />
+                  <e p="ApiAugmentedFaceMode.cs" t="Include" />
+                  <e p="ApiAugmentedFaceRegionType.cs" t="Include" />
+                  <e p="ApiAvailability.cs" t="Include" />
+                  <e p="ApiAvailabilityExtensions.cs" t="Include" />
+                  <e p="ApiCameraConfigFacingDirection.cs" t="Include" />
+                  <e p="ApiCameraConfigFacingDirectionExtensions.cs" t="Include" />
+                  <e p="ApiCameraFocusMode.cs" t="Include" />
+                  <e p="ApiCameraMetadata.cs" t="Include" />
+                  <e p="ApiCloudAnchorMode.cs" t="Include" />
+                  <e p="ApiCloudAnchorState.cs" t="Include" />
+                  <e p="ApiCloudAnchorStateExtensions.cs" t="Include" />
+                  <e p="ApiConstants.cs" t="Include" />
+                  <e p="ApiCoordinates2dType.cs" t="Include" />
+                  <e p="ApiDisplayUvCoords.cs" t="Include" />
+                  <e p="ApiDisplayUvCoordsExtensions.cs" t="Include" />
+                  <e p="ApiFeaturePointOrientationMode.cs" t="Include" />
+                  <e p="ApiFeaturePointOrientationModeExtensions.cs" t="Include" />
+                  <e p="ApiLightEstimateState.cs" t="Include" />
+                  <e p="ApiLightEstimateStateExtensions.cs" t="Include" />
+                  <e p="ApiLightEstimationMode.cs" t="Include" />
+                  <e p="ApiLightEstimationModeExtension.cs" t="Include" />
+                  <e p="ApiPlaneFindingMode.cs" t="Include" />
+                  <e p="ApiPlaneType.cs" t="Include" />
+                  <e p="ApiPlaneTypeExtensions.cs" t="Include" />
+                  <e p="ApiPoseData.cs" t="Include" />
+                  <e p="ApiPrestoConfig.cs" t="Include" />
+                  <e p="ApiPrestoDeviceCameraDirection.cs" t="Include" />
+                  <e p="ApiPrestoStatus.cs" t="Include" />
+                  <e p="ApiPrestoStatusExtensions.cs" t="Include" />
+                  <e p="ApiTrackableType.cs" t="Include" />
+                  <e p="ApiTrackingFailureReason.cs" t="Include" />
+                  <e p="ApiTrackingFailureReasonExtensions.cs" t="Include" />
+                  <e p="ApiTrackingState.cs" t="Include" />
+                  <e p="ApiTrackingStateExtensions.cs" t="Include" />
+                  <e p="ApiTrackingStateXPExtensions.cs" t="Include" />
+                  <e p="ApiUpdateMode.cs" t="Include" />
+                </e>
+                <e p="Wrappers" t="Include">
+                  <e p="AnchorApi.cs" t="Include" />
+                  <e p="AugmentedFaceApi.cs" t="Include" />
+                  <e p="AugmentedImageApi.cs" t="Include" />
+                  <e p="AugmentedImageDatabaseApi.cs" t="Include" />
+                  <e p="CameraApi.cs" t="Include" />
+                  <e p="CameraConfigApi.cs" t="Include" />
+                  <e p="CameraConfigListApi.cs" t="Include" />
+                  <e p="CameraMetadataApi.cs" t="Include" />
+                  <e p="FrameApi.cs" t="Include" />
+                  <e p="HitTestApi.cs" t="Include" />
+                  <e p="ImageApi.cs" t="Include" />
+                  <e p="LightEstimateApi.cs" t="Include" />
+                  <e p="PlaneApi.cs" t="Include" />
+                  <e p="PointApi.cs" t="Include" />
+                  <e p="PointCloudApi.cs" t="Include" />
+                  <e p="PoseApi.cs" t="Include" />
+                  <e p="SessionApi.cs" t="Include" />
+                  <e p="SessionConfigApi.cs" t="Include" />
+                  <e p="TrackableApi.cs" t="Include" />
+                  <e p="TrackableListApi.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ApkAvailabilityStatus.cs" t="Include" />
+              <e p="ApkInstallationStatus.cs" t="Include" />
+              <e p="ARCoreBackgroundRenderer.cs" t="Include" />
+              <e p="ARCoreSession.cs" t="Include" />
+              <e p="ARCoreSessionConfig.cs" t="Include" />
+              <e p="Async" t="Include">
+                <e p="WaitForTaskCompletionYieldInstruction.cs" t="Include" />
+              </e>
+              <e p="AsyncTask.cs" t="Include" />
+              <e p="AugmentedFace.cs" t="Include" />
+              <e p="AugmentedFaceMode.cs" t="Include" />
+              <e p="AugmentedFaceRegion.cs" t="Include" />
+              <e p="AugmentedImage.cs" t="Include" />
+              <e p="AugmentedImageDatabase.cs" t="Include" />
+              <e p="AugmentedImageDatabaseEntry.cs" t="Include" />
+              <e p="AugmentedImageTrackingMethod.cs" t="Include" />
+              <e p="CameraConfig.cs" t="Include" />
+              <e p="CameraFocusMode.cs" t="Include" />
+              <e p="CameraImageBytes.cs" t="Include" />
+              <e p="CameraIntrinsics.cs" t="Include" />
+              <e p="CameraMetadataTag.cs" t="Include" />
+              <e p="CameraMetadataValue.cs" t="Include" />
+              <e p="CloudAnchorResult.cs" t="Include" />
+              <e p="CloudServiceResponse.cs" t="Include" />
+              <e p="Deprecated" t="Include">
+                <e p="TrackedPlane.cs" t="Include" />
+                <e p="TrackedPoint.cs" t="Include" />
+                <e p="TrackedPointOrientationMode.cs" t="Include" />
+              </e>
+              <e p="DetectedPlane.cs" t="Include" />
+              <e p="DetectedPlaneFindingMode.cs" t="Include" />
+              <e p="DetectedPlaneType.cs" t="Include" />
+              <e p="DeviceCameraDirection.cs" t="Include" />
+              <e p="DisplayUvCoordinateType.cs" t="Include" />
+              <e p="DisplayUvCoordinateTypeExtension.cs" t="Include" />
+              <e p="DisplayUvCoords.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="Analytics" t="Include">
+                  <e p="ArcoreClearcut.cs" t="Include" />
+                  <e p="ArcoreSdkLog.cs" t="Include" />
+                </e>
+                <e p="AndroidDependenciesHelper.cs" t="Include" />
+                <e p="ARCoreAnalytics.cs" t="Include" />
+                <e p="ARCoreAnalyticsGUI.cs" t="Include" />
+                <e p="ARCoreAnalyticsPreferences.cs" t="Include" />
+                <e p="ARCoreAnalyticsProvider.cs" t="Include" />
+                <e p="ARCoreIOSSupportHelper.cs" t="Include" />
+                <e p="ARCoreIOSSupportPreprocessBuild.cs" t="Include" />
+                <e p="ARCoreProjectSettingsGUI.cs" t="Include" />
+                <e p="ARCoreProjectSettingsProvider.cs" t="Include" />
+                <e p="ARCoreProjectSettingsWindow.cs" t="Include" />
+                <e p="ARCoreSessionConfigEditor.cs" t="Include" />
+                <e p="ARCoreSupportedPreprocessBuild.cs" t="Include" />
+                <e p="AssetHelper.cs" t="Include" />
+                <e p="AugmentedImageDatabaseContextMenu.cs" t="Include" />
+                <e p="AugmentedImageDatabaseInspector.cs" t="Include" />
+                <e p="AugmentedImageDatabasePreprocessBuild.cs" t="Include" />
+                <e p="BackgroundJobExecutor.cs" t="Include" />
+                <e p="CloudAnchorPreprocessBuild.cs" t="Include" />
+                <e p="ExampleBuildHelper.cs" t="Include" />
+                <e p="ExamplePreprocessBuild.cs" t="Include" />
+                <e p="LogRequestUtils.cs" t="Include" />
+                <e p="PreprocessBuildBase.cs" t="Include" />
+                <e p="RequiredOptionalPreprocessBuild.cs" t="Include" />
+              </e>
+              <e p="EnvironmentalLight.cs" t="Include" />
+              <e p="ExperimentSupport" t="Include">
+                <e p="ExperimentBase.cs" t="Include" />
+                <e p="ExperimentManager.cs" t="Include" />
+              </e>
+              <e p="FeaturePoint.cs" t="Include" />
+              <e p="FeaturePointOrientationMode.cs" t="Include" />
+              <e p="Frame.cs" t="Include" />
+              <e p="LightEstimate.cs" t="Include" />
+              <e p="LightEstimateState.cs" t="Include" />
+              <e p="LightEstimationMode.cs" t="Include" />
+              <e p="LostTrackingReason.cs" t="Include" />
+              <e p="Managers" t="Include">
+                <e p="ARCoreAndroidLifecycleManager.cs" t="Include" />
+                <e p="ARCoreIOSLifecycleManager.cs" t="Include" />
+                <e p="ARPrestoCallbackManager.cs" t="Include" />
+                <e p="CloudServiceManager.cs" t="Include" />
+                <e p="ILifecycleManager.cs" t="Include" />
+                <e p="LifecycleManager.cs" t="Include" />
+                <e p="PointCloudManager.cs" t="Include" />
+                <e p="TrackableManager.cs" t="Include" />
+              </e>
+              <e p="PointCloudPoint.cs" t="Include" />
+              <e p="Session.cs" t="Include" />
+              <e p="SessionStatus.cs" t="Include" />
+              <e p="SessionStatusExtensions.cs" t="Include" />
+              <e p="Trackable.cs" t="Include" />
+              <e p="TrackableHit.cs" t="Include" />
+              <e p="TrackableHitFlags.cs" t="Include" />
+              <e p="TrackableQueryFilter.cs" t="Include" />
+              <e p="TrackingState.cs" t="Include" />
+              <e p="Utility" t="Include">
+                <e p="AndroidNativeHelper.cs" t="Include" />
+                <e p="ARCoreProjectSettings.cs" t="Include" />
+                <e p="ARDebug.cs" t="Include" />
+                <e p="ConversionHelper.cs" t="Include" />
+                <e p="DllImportNoop.cs" t="Include" />
+                <e p="IntPtrEqualityComparer.cs" t="Include" />
+                <e p="MarshalingHelper.cs" t="Include" />
+                <e p="ShellHelper.cs" t="Include" />
+                <e p="SuppressMemoryAllocationErrorAttribute.cs" t="Include" />
+                <e p="ThrottledLogMessage.cs" t="Include" />
+              </e>
+              <e p="VersionInfo.cs" t="Include" />
+              <e p="XPAnchor.cs" t="Include" />
+              <e p="XPSession.cs" t="Include" />
+              <e p="XPSessionStatus.cs" t="Include" />
+              <e p="XPTrackingState.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="MyBackground.shader" t="Include" />
+        </e>
+        <e p="OpenCV+Unity" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DLib" t="Include">
+                <e p="PInvoke" t="Include">
+                  <e p="NativeMethods_dlib.cs" t="Include" />
+                </e>
+                <e p="ShapePredictor.cs" t="Include" />
+              </e>
+              <e p="OpenCvSharp" t="Include">
+                <e p="Constants.cs" t="Include" />
+                <e p="Cv2" t="Include">
+                  <e p="Cv2.cs" t="Include" />
+                  <e p="Cv2_calib3d.cs" t="Include" />
+                  <e p="Cv2_core.cs" t="Include" />
+                  <e p="Cv2_face.cs" t="Include" />
+                  <e p="Cv2_features2d.cs" t="Include" />
+                  <e p="Cv2_highgui.cs" t="Include" />
+                  <e p="Cv2_imgcodecs.cs" t="Include" />
+                  <e p="Cv2_imgproc.cs" t="Include" />
+                  <e p="Cv2_ml.cs" t="Include" />
+                  <e p="Cv2_objdetect.cs" t="Include" />
+                  <e p="Cv2_optflow.cs" t="Include" />
+                  <e p="Cv2_photo.cs" t="Include" />
+                  <e p="Cv2_superres.cs" t="Include" />
+                  <e p="Cv2_video.cs" t="Include" />
+                  <e p="Cv2_xfeatures2d.cs" t="Include" />
+                  <e p="Cv2_xphoto.cs" t="Include" />
+                </e>
+                <e p="CvObject.cs" t="Include" />
+                <e p="Delegate" t="Include">
+                  <e p="CvErrorCallback.cs" t="Include" />
+                  <e p="CvMouseCallback.cs" t="Include" />
+                  <e p="CvTrackbarCallback.cs" t="Include" />
+                  <e p="MatForeachFunction.cs" t="Include" />
+                </e>
+                <e p="DisposableCvObject.cs" t="Include" />
+                <e p="DisposableObject.cs" t="Include" />
+                <e p="ICvPtrHolder.cs" t="Include" />
+                <e p="MatProxy.cs" t="Include" />
+                <e p="modules" t="Include">
+                  <e p="aruco" t="Include">
+                    <e p="CvAruco.cs" t="Include" />
+                    <e p="DetectorParameters.cs" t="Include" />
+                    <e p="Dictionary.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="PredefinedDictionaryName.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="bgsegm" t="Include">
+                    <e p="BackgroundSubtractorGMG.cs" t="Include" />
+                    <e p="BackgroundSubtractorMOG.cs" t="Include" />
+                  </e>
+                  <e p="calib3d" t="Include">
+                    <e p="Enum" t="Include">
+                      <e p="CalibrationFlags.cs" t="Include" />
+                      <e p="ChessboardFlags.cs" t="Include" />
+                      <e p="FindCirclesGridFlags.cs" t="Include" />
+                      <e p="FundamentalMatMethod.cs" t="Include" />
+                      <e p="HomographyMethods.cs" t="Include" />
+                      <e p="SolvePnPFlags.cs" t="Include" />
+                      <e p="StereoRectificationFlags.cs" t="Include" />
+                    </e>
+                    <e p="StereoBM.cs" t="Include" />
+                    <e p="StereoMatcher.cs" t="Include" />
+                    <e p="StereoSGBM.cs" t="Include" />
+                  </e>
+                  <e p="core" t="Include">
+                    <e p="Algorithm.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="AlgorithmParamType.cs" t="Include" />
+                      <e p="CmpTypes.cs" t="Include" />
+                      <e p="CovarFlags.cs" t="Include" />
+                      <e p="CpuFeatures.cs" t="Include" />
+                      <e p="CriteriaType.cs" t="Include" />
+                      <e p="DctFlags.cs" t="Include" />
+                      <e p="DecompTypes.cs" t="Include" />
+                      <e p="DftFlags.cs" t="Include" />
+                      <e p="DistributionType.cs" t="Include" />
+                      <e p="DumpFormat.cs" t="Include" />
+                      <e p="ErrorCode.cs" t="Include" />
+                      <e p="GemmFlags.cs" t="Include" />
+                      <e p="HersheyFonts.cs" t="Include" />
+                      <e p="InOutArrayKind.cs" t="Include" />
+                      <e p="KMeansFlags.cs" t="Include" />
+                      <e p="MatDiagType.cs" t="Include" />
+                      <e p="NormTypes.cs" t="Include" />
+                      <e p="ReduceDimension.cs" t="Include" />
+                      <e p="ReduceTypes.cs" t="Include" />
+                      <e p="RotateFlags.cs" t="Include" />
+                      <e p="SortFlags.cs" t="Include" />
+                    </e>
+                    <e p="FileNode.cs" t="Include" />
+                    <e p="FileStorage.cs" t="Include" />
+                    <e p="InputArray.cs" t="Include" />
+                    <e p="InputOutputArray.cs" t="Include" />
+                    <e p="Mat" t="Include">
+                      <e p="Mat.cs" t="Include" />
+                      <e p="Mat_CvMethods.cs" t="Include" />
+                      <e p="MatIndexer.cs" t="Include" />
+                      <e p="MatOfByte.cs" t="Include" />
+                      <e p="MatOfByte3.cs" t="Include" />
+                      <e p="MatOfDMatch.cs" t="Include" />
+                      <e p="MatOfDouble.cs" t="Include" />
+                      <e p="MatOfDouble3.cs" t="Include" />
+                      <e p="MatOfFloat.cs" t="Include" />
+                      <e p="MatOfFloat4.cs" t="Include" />
+                      <e p="MatOfFloat6.cs" t="Include" />
+                      <e p="MatOfInt.cs" t="Include" />
+                      <e p="MatOfInt4.cs" t="Include" />
+                      <e p="MatOfPoint.cs" t="Include" />
+                      <e p="MatOfPoint2d.cs" t="Include" />
+                      <e p="MatOfPoint2f.cs" t="Include" />
+                      <e p="MatOfPoint3d.cs" t="Include" />
+                      <e p="MatOfPoint3f.cs" t="Include" />
+                      <e p="MatOfPoint3i.cs" t="Include" />
+                      <e p="MatOfRect.cs" t="Include" />
+                      <e p="MatOfShort.cs" t="Include" />
+                      <e p="MatOfT.cs" t="Include" />
+                      <e p="MatOfUShort.cs" t="Include" />
+                    </e>
+                    <e p="MatExpr.cs" t="Include" />
+                    <e p="MatExpr_CvMethods.cs" t="Include" />
+                    <e p="MatExprRangeIndexer.cs" t="Include" />
+                    <e p="MatExprRowColIndexer.cs" t="Include" />
+                    <e p="MatRowColExprIndexer.cs" t="Include" />
+                    <e p="MatRowColIndexer.cs" t="Include" />
+                    <e p="OutputArray.cs" t="Include" />
+                    <e p="OutputArrayOfMatList.cs" t="Include" />
+                    <e p="OutputArrayOfStructList.cs" t="Include" />
+                    <e p="PCA.cs" t="Include" />
+                    <e p="Ptr.cs" t="Include" />
+                    <e p="RNG.cs" t="Include" />
+                    <e p="RNG_MT19937.cs" t="Include" />
+                    <e p="SparseMat.cs" t="Include" />
+                    <e p="SparseMatIndexer.cs" t="Include" />
+                    <e p="Struct" t="Include">
+                      <e p="DMatch.cs" t="Include" />
+                      <e p="IVec.cs" t="Include" />
+                      <e p="KeyPoint.cs" t="Include" />
+                      <e p="MatType.cs" t="Include" />
+                      <e p="Point.cs" t="Include" />
+                      <e p="Point2d.cs" t="Include" />
+                      <e p="Point2f.cs" t="Include" />
+                      <e p="Point3d.cs" t="Include" />
+                      <e p="Point3f.cs" t="Include" />
+                      <e p="Point3i.cs" t="Include" />
+                      <e p="Range.cs" t="Include" />
+                      <e p="Rangef.cs" t="Include" />
+                      <e p="Rect.cs" t="Include" />
+                      <e p="Rect2d.cs" t="Include" />
+                      <e p="Rectf.cs" t="Include" />
+                      <e p="RotatedRect.cs" t="Include" />
+                      <e p="Scalar.cs" t="Include" />
+                      <e p="Size.cs" t="Include" />
+                      <e p="Size2d.cs" t="Include" />
+                      <e p="Size2f.cs" t="Include" />
+                      <e p="TermCriteria.cs" t="Include" />
+                      <e p="Vecb.cs" t="Include" />
+                      <e p="Vecd.cs" t="Include" />
+                      <e p="Vecf.cs" t="Include" />
+                      <e p="Veci.cs" t="Include" />
+                      <e p="Vecs.cs" t="Include" />
+                      <e p="Vecw.cs" t="Include" />
+                    </e>
+                    <e p="SVD.cs" t="Include" />
+                  </e>
+                  <e p="face" t="Include">
+                    <e p="BasicFaceRecognizer.cs" t="Include" />
+                    <e p="CvFace.cs" t="Include" />
+                    <e p="FaceRecognizer.cs" t="Include" />
+                    <e p="LBPHFaceRecognizer.cs" t="Include" />
+                  </e>
+                  <e p="features2d" t="Include">
+                    <e p="AgastFeatureDetector.cs" t="Include" />
+                    <e p="AKAZE.cs" t="Include" />
+                    <e p="BFMatcher.cs" t="Include" />
+                    <e p="BOWImgDescriptorExtractor.cs" t="Include" />
+                    <e p="BOWKMeansTrainer.cs" t="Include" />
+                    <e p="BOWTrainer.cs" t="Include" />
+                    <e p="BRISK.cs" t="Include" />
+                    <e p="DenseFeatureDetector.cs" t="Include" />
+                    <e p="DescriptorMatcher.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="AGASTType.cs" t="Include" />
+                      <e p="AKAZEDescriptorType.cs" t="Include" />
+                      <e p="DrawMatchesFlags.cs" t="Include" />
+                      <e p="FASTType.cs" t="Include" />
+                      <e p="KAZEDiffusivity.cs" t="Include" />
+                      <e p="ORBScore.cs" t="Include" />
+                    </e>
+                    <e p="FastFeatureDetector.cs" t="Include" />
+                    <e p="Feature2D.cs" t="Include" />
+                    <e p="FlannBasedMatcher.cs" t="Include" />
+                    <e p="GFTTDetector.cs" t="Include" />
+                    <e p="KAZE.cs" t="Include" />
+                    <e p="KeyPointsFilter.cs" t="Include" />
+                    <e p="MSER.cs" t="Include" />
+                    <e p="ORB.cs" t="Include" />
+                    <e p="SimpleBlobDetector.cs" t="Include" />
+                  </e>
+                  <e p="flann" t="Include">
+                    <e p="FlannCentersInit.cs" t="Include" />
+                    <e p="FlannDistance.cs" t="Include" />
+                    <e p="Index.cs" t="Include" />
+                    <e p="IndexParams" t="Include">
+                      <e p="AutotunedIndexParams.cs" t="Include" />
+                      <e p="CompositeIndexParams.cs" t="Include" />
+                      <e p="IndexParams.cs" t="Include" />
+                      <e p="KDTreeIndexParams.cs" t="Include" />
+                      <e p="KMeansIndexParams.cs" t="Include" />
+                      <e p="LinearIndexParams.cs" t="Include" />
+                      <e p="SavedIndexParams.cs" t="Include" />
+                      <e p="SearchParams.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="highgui" t="Include">
+                    <e p="CvTrackbar.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="ButtonTypes.cs" t="Include" />
+                      <e p="MouseEvent.cs" t="Include" />
+                      <e p="WindowMode.cs" t="Include" />
+                      <e p="WindowProperty.cs" t="Include" />
+                    </e>
+                    <e p="FourCC.cs" t="Include" />
+                    <e p="Window.cs" t="Include" />
+                  </e>
+                  <e p="imgcodecs" t="Include">
+                    <e p="Enum" t="Include">
+                      <e p="ConvertImageModes.cs" t="Include" />
+                      <e p="ImreadModes.cs" t="Include" />
+                      <e p="ImwriteFlags.cs" t="Include" />
+                    </e>
+                    <e p="ImageEncodingParam.cs" t="Include" />
+                  </e>
+                  <e p="imgproc" t="Include">
+                    <e p="CLAHE.cs" t="Include" />
+                    <e p="ConnectedComponent.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="AdaptiveThresholdTypes.cs" t="Include" />
+                      <e p="BorderTypes.cs" t="Include" />
+                      <e p="ColorConversionCodes.cs" t="Include" />
+                      <e p="ColormapTypes.cs" t="Include" />
+                      <e p="ConnectedComponentsTypes.cs" t="Include" />
+                      <e p="ContourApproximationModes.cs" t="Include" />
+                      <e p="DistanceMaskSize.cs" t="Include" />
+                      <e p="DistanceTransformLabelTypes.cs" t="Include" />
+                      <e p="DistanceTypes.cs" t="Include" />
+                      <e p="FlipMode.cs" t="Include" />
+                      <e p="FloodFillFlags.cs" t="Include" />
+                      <e p="GrabCutClasses.cs" t="Include" />
+                      <e p="GrabCutModes.cs" t="Include" />
+                      <e p="HistCompMethods.cs" t="Include" />
+                      <e p="HoughMethods.cs" t="Include" />
+                      <e p="InterpolationFlags.cs" t="Include" />
+                      <e p="LineSegmentDetectorModes.cs" t="Include" />
+                      <e p="LineTypes.cs" t="Include" />
+                      <e p="MarkerStyle.cs" t="Include" />
+                      <e p="MorphShapes.cs" t="Include" />
+                      <e p="MorphTypes.cs" t="Include" />
+                      <e p="PixelConnectivity.cs" t="Include" />
+                      <e p="ProjectionType.cs" t="Include" />
+                      <e p="RectanglesIntersectTypes.cs" t="Include" />
+                      <e p="RetrievalModes.cs" t="Include" />
+                      <e p="ShapeMatchModes.cs" t="Include" />
+                      <e p="TemplateMatchModes.cs" t="Include" />
+                      <e p="ThresholdTypes.cs" t="Include" />
+                    </e>
+                    <e p="GeneralizedHough.cs" t="Include" />
+                    <e p="GeneralizedHoughBallard.cs" t="Include" />
+                    <e p="GeneralizedHoughGuil.cs" t="Include" />
+                    <e p="LineIterator.cs" t="Include" />
+                    <e p="LineSegmentDetector.cs" t="Include" />
+                    <e p="Model" t="Include">
+                      <e p="CircleSegment.cs" t="Include" />
+                      <e p="HierarchyIndex.cs" t="Include" />
+                      <e p="Line2D.cs" t="Include" />
+                      <e p="Line3D.cs" t="Include" />
+                      <e p="LineSegmentPoint.cs" t="Include" />
+                      <e p="LineSegmentPolar.cs" t="Include" />
+                    </e>
+                    <e p="Moments.cs" t="Include" />
+                    <e p="Subdiv2D.cs" t="Include" />
+                  </e>
+                  <e p="ml" t="Include">
+                    <e p="ANN_MLP.cs" t="Include" />
+                    <e p="EM.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="SampleTypes.cs" t="Include" />
+                    </e>
+                    <e p="KNearest.cs" t="Include" />
+                    <e p="LogisticRegression.cs" t="Include" />
+                    <e p="NormalBayesClassifier.cs" t="Include" />
+                    <e p="ParamGrid.cs" t="Include" />
+                    <e p="StatModel.cs" t="Include" />
+                    <e p="SVM.cs" t="Include" />
+                    <e p="TrainData.cs" t="Include" />
+                  </e>
+                  <e p="objdetect" t="Include">
+                    <e p="CascadeClassifier.cs" t="Include" />
+                    <e p="Enum" t="Include">
+                      <e p="HaarDetectionType.cs" t="Include" />
+                    </e>
+                    <e p="HistogramNormType.cs" t="Include" />
+                    <e p="HOGDescriptor.cs" t="Include" />
+                    <e p="LatendSvmDetector.cs" t="Include" />
+                    <e p="SimilarRects.cs" t="Include" />
+                  </e>
+                  <e p="photo" t="Include">
+                    <e p="CalibrateCRF.cs" t="Include" />
+                    <e p="CalibrateDebevec.cs" t="Include" />
+                    <e p="EdgePreservingMethods.cs" t="Include" />
+                    <e p="InpaintMethod.cs" t="Include" />
+                    <e p="SeamlessCloneMethods.cs" t="Include" />
+                  </e>
+                  <e p="shape" t="Include">
+                    <e p="HausdorffDistanceExtractor.cs" t="Include" />
+                    <e p="ShapeContextDistanceExtractor.cs" t="Include" />
+                    <e p="ShapeDistanceExtractor.cs" t="Include" />
+                  </e>
+                  <e p="stitching" t="Include">
+                    <e p="Stitcher.cs" t="Include" />
+                  </e>
+                  <e p="superres" t="Include">
+                    <e p="DenseOpticalFlowExt.cs" t="Include" />
+                    <e p="DenseOpticalFlowExtImpl.cs" t="Include" />
+                    <e p="FrameSource.cs" t="Include" />
+                    <e p="FrameSourceImpl.cs" t="Include" />
+                    <e p="SuperResolution.cs" t="Include" />
+                    <e p="SuperResolutionImpl.cs" t="Include" />
+                  </e>
+                  <e p="text" t="Include">
+                    <e p="TextDetection.cs" t="Include" />
+                    <e p="TextRecognition.cs" t="Include" />
+                  </e>
+                  <e p="tracking" t="Include">
+                    <e p="Enum" t="Include">
+                      <e p="TrackerTypes.cs" t="Include" />
+                    </e>
+                    <e p="Tracker.cs" t="Include" />
+                  </e>
+                  <e p="video" t="Include">
+                    <e p="BackgroundSubtractor.cs" t="Include" />
+                    <e p="BackgroundSubtractorKNN.cs" t="Include" />
+                    <e p="BackgroundSubtractorMog2.cs" t="Include" />
+                    <e p="DenseOpticalFlow.cs" t="Include" />
+                    <e p="DenseOpticalFlowImpl.cs" t="Include" />
+                    <e p="KalmanFilter.cs" t="Include" />
+                    <e p="OpticalFlowFlags.cs" t="Include" />
+                  </e>
+                  <e p="xfeatures2d" t="Include">
+                    <e p="BriefDescriptorExtractor.cs" t="Include" />
+                    <e p="FREAK.cs" t="Include" />
+                    <e p="SIFT.cs" t="Include" />
+                    <e p="StarDetector.cs" t="Include" />
+                    <e p="SURF.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="OpenCVException.cs" t="Include" />
+                <e p="OpenCvSharpException.cs" t="Include" />
+                <e p="PInvoke" t="Include">
+                  <e p="calib3d" t="Include">
+                    <e p="NativeMethods_calib3d.cs" t="Include" />
+                    <e p="NativeMethods_calib3d_StereoMatcher.cs" t="Include" />
+                  </e>
+                  <e p="core" t="Include">
+                    <e p="NativeMethods_core.cs" t="Include" />
+                    <e p="NativeMethods_core_Algorithm.cs" t="Include" />
+                    <e p="NativeMethods_core_Classes.cs" t="Include" />
+                    <e p="NativeMethods_core_Mat.cs" t="Include" />
+                    <e p="NativeMethods_core_MatExpr.cs" t="Include" />
+                    <e p="NativeMethods_core_SparseMat.cs" t="Include" />
+                  </e>
+                  <e p="face" t="Include">
+                    <e p="NativeMethods_face.cs" t="Include" />
+                    <e p="NativeMethods_face_BasicFaceRecognizer.cs" t="Include" />
+                    <e p="NativeMethods_face_FaceRecognizer.cs" t="Include" />
+                    <e p="NativeMethods_face_LBPHFaceRecognizer.cs" t="Include" />
+                  </e>
+                  <e p="features2d" t="Include">
+                    <e p="NativeMethods_features2d.cs" t="Include" />
+                    <e p="NativeMethods_features2d_AgastFeatureDetector.cs" t="Include" />
+                    <e p="NativeMethods_features2d_AKAZE.cs" t="Include" />
+                    <e p="NativeMethods_features2d_BOW.cs" t="Include" />
+                    <e p="NativeMethods_features2d_BRISK.cs" t="Include" />
+                    <e p="NativeMethods_features2d_DescriptorExtractor.cs" t="Include" />
+                    <e p="NativeMethods_features2d_DescriptorMatcher.cs" t="Include" />
+                    <e p="NativeMethods_features2d_FastFeatureDetector.cs" t="Include" />
+                    <e p="NativeMethods_features2d_Feature2D.cs" t="Include" />
+                    <e p="NativeMethods_features2d_GFTTDetector.cs" t="Include" />
+                    <e p="NativeMethods_features2d_KAZE.cs" t="Include" />
+                    <e p="NativeMethods_features2d_KeyPointsFilter.cs" t="Include" />
+                    <e p="NativeMethods_features2d_MSER.cs" t="Include" />
+                    <e p="NativeMethods_features2d_ORB.cs" t="Include" />
+                    <e p="NativeMethods_features2d_SimpleBlobDetector.cs" t="Include" />
+                  </e>
+                  <e p="imgproc" t="Include">
+                    <e p="NativeMethods_imgproc.cs" t="Include" />
+                    <e p="NativeMethods_imgproc_CLAHE.cs" t="Include" />
+                    <e p="NativeMethods_imgproc_GeneralizedHough.cs" t="Include" />
+                    <e p="NativeMethods_imgproc_LineIterator.cs" t="Include" />
+                    <e p="NativeMethods_imgproc_LineSegmentDetector.cs" t="Include" />
+                    <e p="NativeMethods_imgproc_Subdiv2D.cs" t="Include" />
+                  </e>
+                  <e p="ml" t="Include">
+                    <e p="NativeMethods_ml.cs" t="Include" />
+                    <e p="NativeMethods_ml_ANN_MLP.cs" t="Include" />
+                    <e p="NativeMethods_ml_Boost.cs" t="Include" />
+                    <e p="NativeMethods_ml_DTrees.cs" t="Include" />
+                    <e p="NativeMethods_ml_EM.cs" t="Include" />
+                    <e p="NativeMethods_ml_KNearest.cs" t="Include" />
+                    <e p="NativeMethods_ml_LogisticRegression.cs" t="Include" />
+                    <e p="NativeMethods_ml_NormalBayesClassifier.cs" t="Include" />
+                    <e p="NativeMethods_ml_RTrees.cs" t="Include" />
+                    <e p="NativeMethods_ml_StatModel.cs" t="Include" />
+                    <e p="NativeMethods_ml_SVM.cs" t="Include" />
+                  </e>
+                  <e p="NativeMethods.cs" t="Include" />
+                  <e p="NativeMethods_aruco.cs" t="Include" />
+                  <e p="NativeMethods_bgsegm.cs" t="Include" />
+                  <e p="NativeMethods_face.cs" t="Include" />
+                  <e p="NativeMethods_flann.cs" t="Include" />
+                  <e p="NativeMethods_highgui.cs" t="Include" />
+                  <e p="NativeMethods_imgcodecs.cs" t="Include" />
+                  <e p="NativeMethods_objdetect.cs" t="Include" />
+                  <e p="NativeMethods_optflow.cs" t="Include" />
+                  <e p="NativeMethods_stdvector.cs" t="Include" />
+                  <e p="NativeMethods_stitching.cs" t="Include" />
+                  <e p="NativeMethods_superres.cs" t="Include" />
+                  <e p="NativeMethods_text.cs" t="Include" />
+                  <e p="NativeMethods_tracking.cs" t="Include" />
+                  <e p="NativeMethods_xfeatures2d.cs" t="Include" />
+                  <e p="NativeMethods_xphoto.cs" t="Include" />
+                  <e p="photo" t="Include">
+                    <e p="NativeMethods_photo.cs" t="Include" />
+                    <e p="NativeMethods_photo_HDR.cs" t="Include" />
+                  </e>
+                  <e p="shape" t="Include">
+                    <e p="NativeMethods_shape_ShapeDistanceExtractor.cs" t="Include" />
+                  </e>
+                  <e p="video" t="Include">
+                    <e p="NativeMethods_video.cs" t="Include" />
+                    <e p="NativeMethods_video_BackgroundSubtractor.cs" t="Include" />
+                  </e>
+                  <e p="Win32API.cs" t="Include" />
+                </e>
+                <e p="Unity" t="Include">
+                  <e p="Unity.cs" t="Include" />
+                </e>
+                <e p="Util" t="Include">
+                  <e p="ArrayAddress.cs" t="Include" />
+                  <e p="DynamicInvoker.cs" t="Include" />
+                  <e p="EnumerableEx.cs" t="Include" />
+                  <e p="PInvokeHelper.cs" t="Include" />
+                  <e p="Platform.cs" t="Include" />
+                  <e p="PlatformUtil.cs" t="Include" />
+                  <e p="ScopedGCHandle.cs" t="Include" />
+                  <e p="StringArrayAddress.cs" t="Include" />
+                  <e p="StructurePointer.cs" t="Include" />
+                  <e p="TimeMeasurer.cs" t="Include" />
+                  <e p="Utility.cs" t="Include" />
+                  <e p="WindowsLibraryLoader.cs" t="Include" />
+                </e>
+                <e p="Vector" t="Include">
+                  <e p="IStdVector.cs" t="Include" />
+                  <e p="VectorOfByte.cs" t="Include" />
+                  <e p="VectorOfDMatch.cs" t="Include" />
+                  <e p="VectorOfDouble.cs" t="Include" />
+                  <e p="VectorOfERStat.cs" t="Include" />
+                  <e p="VectorOfFloat.cs" t="Include" />
+                  <e p="VectorOfInt32.cs" t="Include" />
+                  <e p="VectorOfKeyPoint.cs" t="Include" />
+                  <e p="VectorOfMat.cs" t="Include" />
+                  <e p="VectorOfPoint.cs" t="Include" />
+                  <e p="VectorOfPoint2f.cs" t="Include" />
+                  <e p="VectorOfPoint3f.cs" t="Include" />
+                  <e p="VectorOfRect.cs" t="Include" />
+                  <e p="VectorOfString.cs" t="Include" />
+                  <e p="VectorOfVec2f.cs" t="Include" />
+                  <e p="VectorOfVec3f.cs" t="Include" />
+                  <e p="VectorOfVec4f.cs" t="Include" />
+                  <e p="VectorOfVec4i.cs" t="Include" />
+                  <e p="VectorOfVec6d.cs" t="Include" />
+                  <e p="VectorOfVec6f.cs" t="Include" />
+                  <e p="VectorOfVectorDMatch.cs" t="Include" />
+                  <e p="VectorOfVectorDouble.cs" t="Include" />
+                  <e p="VectorOfVectorERStat.cs" t="Include" />
+                  <e p="VectorOfVectorFloat.cs" t="Include" />
+                  <e p="VectorOfVectorInt.cs" t="Include" />
+                  <e p="VectorOfVectorKeyPoint.cs" t="Include" />
+                  <e p="VectorOfVectorPoint.cs" t="Include" />
+                  <e p="VectorOfVectorPoint2f.cs" t="Include" />
+                  <e p="VectorOfVectorVec2i.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="Document_Scanner" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="DocumentScannerLobby.cs" t="Include" />
+                <e p="DocumentScannerScript.cs" t="Include" />
+                <e p="PaperScanner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Face_Detector" t="Include">
+              <e p="FaceDetectorScene.cs" t="Include" />
+              <e p="haarcascade_eye.xml" t="Include" />
+              <e p="haarcascade_eye_tree_eyeglasses.xml" t="Include" />
+              <e p="haarcascade_frontalface_default.xml" t="Include" />
+            </e>
+            <e p="Face_Recognizer" t="Include">
+              <e p="face-recognizer.xml" t="Include" />
+              <e p="FaceRecognizerScene.cs" t="Include" />
+            </e>
+            <e p="Grayscale" t="Include">
+              <e p="GrayscaleScript.cs" t="Include" />
+            </e>
+            <e p="Identifiy_Contours_by_Shape" t="Include">
+              <e p="ContoursByShapeScript.cs" t="Include" />
+            </e>
+            <e p="LiveSketch_WebCam" t="Include">
+              <e p="LiveSketchScript.cs" t="Include" />
+            </e>
+            <e p="Lobby" t="Include">
+              <e p="LobbyScript.cs" t="Include" />
+            </e>
+            <e p="Marker_Detector" t="Include">
+              <e p="MarkerDetector.cs" t="Include" />
+            </e>
+            <e p="OCR.Alphabet" t="Include">
+              <e p="AlphabetOCR.cs" t="Include" />
+              <e p="AlphabetOCRScene.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CameraScaler.cs" t="Include" />
+              <e p="DataStabilizer.cs" t="Include" />
+              <e p="DetectedFace.cs" t="Include" />
+              <e p="FaceProcessor.cs" t="Include" />
+              <e p="WebCamera.cs" t="Include" />
+            </e>
+            <e p="tracking" t="Include">
+              <e p="TrackingScript.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Documentation" t="Include">
+            <e p="OpenCV+Unity_Notes.txt" t="Include" />
+            <e p="Third-Party Licenses.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
