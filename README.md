@@ -1,6 +1,6 @@
 # ARCoreOpenCV
 
-<img src="https://gitlab.com/serbelga/arcoreopencv/raw/master/preview.gif" height="400" />
+<img src="https://github.com/serbelga/ARCoreOpenCV/blob/master/preview.gif" height="400" />
 
 ARCore + OpenCV. TextureReader to retrieve camera frames and OpenCV to segmentate colors.
 
