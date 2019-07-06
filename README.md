@@ -1,5 +1,7 @@
 # ARCoreOpenCV
 
+![](https://gitlab.com/serbelga/arcoreopencv/blob/master/preview.gif)
+
 ARCore + OpenCV. TextureReader to retrieve camera frames and OpenCV to segmentate colors.
 
 - Unity 2018.4.2f1
